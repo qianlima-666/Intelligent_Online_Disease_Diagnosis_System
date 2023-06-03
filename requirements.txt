@@ -1,0 +1,6 @@
+configobj==5.0.8
+py2neo==2021.2.3
+pyahocorasick==2.0.0
+tqdm==4.65.0
+loguru==0.7.0
+flask==2.3.2

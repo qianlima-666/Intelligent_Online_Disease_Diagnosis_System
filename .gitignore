@@ -1,0 +1,10 @@
+.old
+.venv
+.vscode
+dict
+# .gitignore
+__pycache__
+config.ini
+log
+test.py
+
